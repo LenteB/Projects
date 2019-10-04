@@ -32,39 +32,6 @@ let toggleNav = function () {
     }
 }
 
-/*
-if (toggleNavStatus === false) {
-        getSidebarUl.style.color = "blue" 
-
-
-var color = ["#0000FF, #FF0000, #FFFF00, #00FF00"];
-var i= 0 ;
-document.querySelector("a").addEventListener("click", function(){
-    i = 1 < color.length [1] i++ :0;
-}
-
-)
-
-     
-
-let backGroundColorStatus = false;
-
-let menuColor = function() {
-    let getBody = document.querySelector(".background");
-    
-
-    if (backGroundColorStatus === false) {
-        menuColor.style.background-color = "#0000FF";
-        
-
-        let arrayLength = getSidebarLinks.length; 
-        for (let i = 0; i < arrayLength; i++) {
-            getSidebarLinks [i].style.opacity = "1";    
-        }
-        toggleNavStatus = true;
-
-
-*/
 
 
 function colorChange() {
